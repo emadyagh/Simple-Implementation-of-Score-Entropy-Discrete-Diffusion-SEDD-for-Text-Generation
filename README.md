@@ -15,3 +15,6 @@ This implementation is inspired by the paper:
 Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution.
 
 By the end of the video, we will also derive the loss function and explain key equations from the paper.
+
+
+[![Watch the demo](https://img.youtube.com/vi/4i_0mpqX2lM/0.jpg)](https://youtu.be/4i_0mpqX2lM)
